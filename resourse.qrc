@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/">
+    <file>img/accept.png</file>
+    <file>img/add.png</file>
+    <file>img/delete.png</file>
+    <file>img/down.png</file>
+    <file>img/exit.png</file>
+    <file>img/logo.ico</file>
+    <file>img/response.png</file>
+    <file>img/sessions.png</file>
+    <file>img/settings.png</file>
+    <file>img/start.png</file>
+    <file>img/stop.png</file>
+    <file>img/tools.png</file>
+    <file>img/up.png</file>
+    <file>img/clear.png</file>
+  </qresource>
+</RCC>
